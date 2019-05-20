@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monkeybread/static/css/main.8e7275e7.chunk.css",
-    "main.js": "/monkeybread/static/js/main.bab09992.chunk.js",
-    "main.js.map": "/monkeybread/static/js/main.bab09992.chunk.js.map",
+    "main.css": "/monkeybread/static/css/main.efd754b0.chunk.css",
+    "main.js": "/monkeybread/static/js/main.f7c6a230.chunk.js",
+    "main.js.map": "/monkeybread/static/js/main.f7c6a230.chunk.js.map",
     "runtime~main.js": "/monkeybread/static/js/runtime~main.a4f319d6.js",
     "runtime~main.js.map": "/monkeybread/static/js/runtime~main.a4f319d6.js.map",
     "static/js/2.3310f33a.chunk.js": "/monkeybread/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/monkeybread/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/monkeybread/index.html",
-    "precache-manifest.aac49484df6d72b67240c5435fbfbdf2.js": "/monkeybread/precache-manifest.aac49484df6d72b67240c5435fbfbdf2.js",
+    "precache-manifest.4ae227498ec96de581053da6b376f7fb.js": "/monkeybread/precache-manifest.4ae227498ec96de581053da6b376f7fb.js",
     "service-worker.js": "/monkeybread/service-worker.js",
-    "static/css/main.8e7275e7.chunk.css.map": "/monkeybread/static/css/main.8e7275e7.chunk.css.map"
+    "static/css/main.efd754b0.chunk.css.map": "/monkeybread/static/css/main.efd754b0.chunk.css.map"
   }
 }
