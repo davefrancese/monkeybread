@@ -1,10 +1,17 @@
 import React from "react";
-import "./App.css";
+import Header from "./components/Header";
+import Intro from "./components/Intro";
+
+import "./App.scss";
 
 function App() {
   return (
     <div className="App">
-      <h1>YO</h1>
+      <Header />
+      <h1>Dave Francese</h1>
+      <main>
+        <Intro />
+      </main>
     </div>
   );
 }
