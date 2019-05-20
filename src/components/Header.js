@@ -3,7 +3,8 @@ import React from "react";
 function Header() {
   return (
     <div class="Header">
-      <img src="%PUBLIC_URL%/mbtLogo.png" alt="monkey bread tech logo" />
+      {/* <img src="../mbtLogo.png" alt="monkey bread tech logo" /> */}
+      <h2>Monkey Bread Technologies</h2>
     </div>
   );
 }
